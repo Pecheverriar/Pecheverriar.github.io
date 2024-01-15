@@ -1,0 +1,13 @@
+.titulo{
+    text-align: center;
+}
+body{
+    background-color:#72d5f8 ;
+}
+.container-fluids {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
