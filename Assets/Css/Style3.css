@@ -2,12 +2,29 @@
     text-align: center;
 }
 body{
-    background-color:#72d5f8 ;
+    background-color:#72f8ed ;
 }
-.container-fluids {
+.container-fluids{
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
+header {
+    align-items: center;
+}
+  
+.menu {
+    background-color: #bfecea;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu ul {
+    /*  float: right; */
+}
+.menu ul li {
+    display: inline-block;
+}
+
